@@ -1,0 +1,17 @@
+{
+  "name": "jackson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jackson-js": "^1.1.0",
+    "lodash": "^4.17.21",
+    "node-json-transform": "^1.1.2",
+    "save": "^2.5.0"
+  }
+}

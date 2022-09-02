@@ -1,0 +1,27 @@
+[
+    {
+        "regulatory_name": "Azure-Security-Benchmark",
+        "regulatory_state": "Passed",   
+        "regulatory_passed_controls": 3,
+        "regulatory_failed_controls": 5       
+		
+    },
+    {
+        "regulatory_name": "Aws-Security-Benchmark",
+        "regulatory_state": "Passed",
+        "regulatory_passed_controls": 6,
+        "regulatory_failed_controls": 9        
+    },
+    {
+        "regulatory_name": "Azure-Security-Benchmark",
+        "regulatory_state": "Failed",
+        "regulatory_passed_controls": 4,
+        "regulatory_failed_controls": 7        
+    },
+    {
+        "regulatory_name": "Aws-Security-Benchmark",
+        "regulatory_state": "Failed",
+        "regulatory_passed_controls": 4,
+        "regulatory_failed_controls": 7        
+    }
+]
